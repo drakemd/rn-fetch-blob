@@ -7,6 +7,7 @@ import {
   DeviceEventEmitter,
   NativeAppEventEmitter,
   Platform,
+  AsyncStorage,
   AppState,
 } from 'react-native'
 import type {

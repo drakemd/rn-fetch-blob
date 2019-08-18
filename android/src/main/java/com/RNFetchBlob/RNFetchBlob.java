@@ -28,6 +28,7 @@ import okhttp3.OkHttpClient;
 import okhttp3.JavaNetCookieJar;
 
 import java.io.File;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;
